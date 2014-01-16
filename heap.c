@@ -3,7 +3,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include "heap.h"
-#include "../array/array.h"
 
 struct Heap {
   int elementSize;
